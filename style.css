@@ -1,0 +1,67 @@
+/* Alinnhou o texto todo*/
+/**{
+    text-align: center;
+    }*/
+ 
+    /* Título principal*/
+ h1
+ {
+   background-color: hsl(156, 50%, 50%);
+   color:#000000;
+   font-size: 70px;
+   font-weight: 100px;
+   font-family:'Times New Roman', Times, serif;
+   text-align: center;
+   }
+ /* Sub título*/  
+ h2
+ {
+   color: rgb(247, 0, 255);
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 50px;
+   font-weight: 80px;
+   text-align: center;
+ }
+ .hov:hover{
+    background-color: blueviolet;
+    border: 1px solid black;
+ }
+#Quadrado Canto{
+    border:1px solid black;
+    width: 200px;
+    height:200px;
+    margin:-2px;    
+ }
+  div{
+    display:inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin:-2px;
+    display flex: 200px;
+     }
+ .vermelho{
+    background-color: rgb(226, 43, 43);
+    border:1px solid black;
+ }
+ .azul{
+    background-color: rgb(43, 162, 226);
+    border:1px solid black;
+}
+
+.verde{
+    background-color: rgb(55, 226, 43);
+    border:1px solid black;
+ }
+ .amarelo{
+    background-color: rgb(226, 223, 43);
+    border:1px solid black;
+ }
+ p{
+    color: blue;
+    text-align: right;
+ }
+ a{
+   color: rgb(238, 130, 236)
+ }
+
